@@ -14,7 +14,7 @@ Navigate to the `sql/connections.js` file and alter the following fields to refl
   host: 'localhost',
   user: 'root',
   password: 'password',
-  database: 'admin'
+  database: 'db9201_ACA_class'
 ```
 
 These will be the same credentials we used to set up a connection in MySQL Workbench.

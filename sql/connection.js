@@ -7,8 +7,8 @@ class Connection {
 
       const config = {
         connectionLimit: 100,
-        host: 'localhost',
-        user: 'root',
+        host: 'external-db.s9201.gridserver.com',
+        user: 'db9201_ACA_class',
         password: 'password',
         database: 'admin'
       }
